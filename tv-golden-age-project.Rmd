@@ -4,6 +4,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
+#https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-01-08
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
